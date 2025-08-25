@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+.python-version
+
+# PyCharm settings
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+
+# data folder
+iphone_data_manager/iphone13_folder
+iphone_data_manager/file_organizer.log
+iphone_data_manager/tests/
+iphone_data_manager/images
+iphone_data_manager/videos
+iphone_data_manager/data
+data/
+images/
+videos/
+other/
+documents/
